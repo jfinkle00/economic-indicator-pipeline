@@ -617,8 +617,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Jason Finkle**
 
 - GitHub: [@jfinkle00](https://github.com/jfinkle00)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- LinkedIn: https://www.linkedin.com/in/jason-finkle/
+- Email: jfinkle00@gmail.com
 
 ---
 
