@@ -6,7 +6,7 @@
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16.3-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Production-success)](https://github.com/yourusername/economic-indicator-pipeline)
+[![Status](https://img.shields.io/badge/Status-Production-success)](https://github.com/jfinkle00/economic-indicator-pipeline)
 
 ---
 
@@ -119,7 +119,7 @@ A production-ready, fully automated ETL (Extract, Transform, Load) pipeline that
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/economic-indicator-pipeline.git
+   git clone https://github.com/jfinkle00/economic-indicator-pipeline.git
    cd economic-indicator-pipeline
    ```
 
@@ -616,7 +616,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Jason Finkle**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@jfinkle00](https://github.com/jfinkle00)
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
 - Email: your.email@example.com
 
@@ -649,6 +649,6 @@ If you found this project useful, please consider giving it a star! It helps oth
 
 **Built with ❤️ using AWS, Python, and PostgreSQL**
 
-[Report Bug](https://github.com/yourusername/economic-indicator-pipeline/issues) · [Request Feature](https://github.com/yourusername/economic-indicator-pipeline/issues)
+[Report Bug](https://github.com/jfinkle00/economic-indicator-pipeline/issues) · [Request Feature](https://github.com/jfinkle00/economic-indicator-pipeline/issues)
 
 </div>
